@@ -1,14 +1,22 @@
-# AI Ticket Sentinel
-Classifies, prioritizes and routes support tickets with AI.
+# Zion AI Ticket Sentinel
 
-Live page: https://ziontechgroup.com/zion-ai-ticket-sentinel/
+Zion satellite app — classifies, prioritizes, and routes support tickets with AI so nothing urgent sits in the wrong queue.
+
+**Live app:** https://ziontechgroup.com/zion-ai-ticket-sentinel/
+
+## Features
+- AI classification and priority scoring of inbound tickets
+- Smart routing to the right team/engineer
+- SLA-aware escalation hooks
+
+## Part of the Zion Tech Group App Network
+- Network showcase: https://zion-support.github.io/apps/
+- Homepage: https://ziontechgroup.com
+
+### Related apps
+- [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) — forecast breaches early
+- [Zion AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/) — smart dispatch
+- [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) — unified VoC analytics
 
 ---
-🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
-
-**Related apps:**
-- [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) — https://ziontechgroup.com/zion-ai-ticket-triage/
-- [sla-forecast-guardian](https://github.com/Zion-support/sla-forecast-guardian) — https://ziontechgroup.com/sla-forecast-guardian/
-- [support-deflection-analyzer](https://github.com/Zion-support/support-deflection-analyzer) — https://ziontechgroup.com/support-deflection-analyzer/
-
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+© 2026 Zion Tech Group — https://ziontechgroup.com
