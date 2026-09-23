@@ -1,25 +1,24 @@
 # Zion AI Ticket Sentinel
 
-Classify, prioritize and route support tickets with AI — SLA-aligned.
+AI monitoring and triage of inbound support tickets with priority and SLA routing. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/zion-ai-ticket-sentinel/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Zion AI Ticket Sentinel is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **SLA, Incidents & SRE**.
 
-## Related apps
-- [Maintenance Ticket Triage](https://github.com/Zion-support/maintenance-ticket-triage) — [live](https://ziontechgroup.com/maintenance-ticket-triage/)
-- [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk) — [live](https://ziontechgroup.com/zion-ai-help-desk/)
-- [SLA Breach Predictor](https://github.com/Zion-support/sla-breach-predictor) — [live](https://ziontechgroup.com/sla-breach-predictor/)
-- [Zion AI Incident Responder](https://github.com/Zion-support/zion-ai-incident-responder) — [live](https://ziontechgroup.com/zion-ai-incident-responder/)
+## Related apps in the network
+- [Maintenance Ticket Triage](https://ziontechgroup.com/maintenance-ticket-triage/) — AI classification and prioritization ([repo](https://github.com/Zion-support/maintenance-ticket-triage))
+- [Zion AI Help Desk](https://help-desk.ziontechgroup.com) — AI help desk platform ([repo](https://github.com/Zion-support/zion-ai-help-desk))
+- [Agent SLA Monitor](https://ziontechgroup.com/agent-sla-monitor/) — SLA monitoring for agent operations ([repo](https://github.com/Zion-support/agent-sla-monitor))
+- [Support Deflection Analyzer](https://ziontechgroup.com/support-deflection-analyzer/) — measure ticket deflection ([repo](https://github.com/Zion-support/support-deflection-analyzer))
+- [Incident Comms Writer](https://ziontechgroup.com/incident-comms-writer/) — draft incident updates ([repo](https://github.com/Zion-support/incident-comms-writer))
+- [AI Email Classifier](https://ai-email-classifier.ziontechgroup.com) — intelligent email classification and routing ([repo](https://github.com/Zion-support/ai-email-classifier))
 
 ## Links
-- Live: https://ziontechgroup.com/zion-ai-ticket-sentinel/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
